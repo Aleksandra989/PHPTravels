@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21746" started-at="2019-12-14T23:38:46 CET" finished-at="2019-12-14T23:39:07 CET">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21746" started-at="2019-12-14T23:38:46 CET" finished-at="2019-12-14T23:39:07 CET">
+      <class name="tests.ExcelLoginTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:tests.ExcelLoginTest@5c5a1b69]" name="setup" is-config="true" duration-ms="7026" started-at="2019-12-14T23:38:46 CET" finished-at="2019-12-14T23:38:53 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="LoginExcell()[pri:0, instance:tests.ExcelLoginTest@5c5a1b69]" name="LoginExcell" duration-ms="14657" started-at="2019-12-14T23:38:53 CET" finished-at="2019-12-14T23:39:07 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginExcell -->
+        <test-method status="PASS" signature="quit()[pri:0, instance:tests.ExcelLoginTest@5c5a1b69]" name="quit" is-config="true" duration-ms="0" started-at="2019-12-14T23:39:07 CET" finished-at="2019-12-14T23:39:07 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- tests.ExcelLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
